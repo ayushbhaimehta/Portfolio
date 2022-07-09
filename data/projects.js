@@ -13,7 +13,7 @@ const projects = [
             {
                 label: 'Github',
                 icon: 'github',
-                url: '#',
+                url: 'https://github.com/ayushbhaimehta/travel-diaries-frontend',
             },
         ],
     },
