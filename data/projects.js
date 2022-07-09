@@ -8,7 +8,7 @@ const projects = [
             {
                 label: 'Website',
                 icon: 'link',
-                url: '#',
+                url: 'https://traveldiary.vercel.app/posts',
             },
             {
                 label: 'Github',
